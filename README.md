@@ -1,1 +1,3 @@
-# COVID-19-Indonesia-Dataset
+# Datasets
+
+Dataset collection for educational purpose
